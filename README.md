@@ -7,4 +7,5 @@ OTP-Based Authentication: Users receive OTPs for secure login and verification.
 Email Notifications: Automatically sends notifications to users based on their fee status.
 Modular Notifications: Custom modules handle both fee-pending and fee-cleared notifications.
 Requirements
-# Python 3.x
+# Requirements
+Python 3.x
